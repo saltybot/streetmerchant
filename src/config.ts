@@ -208,6 +208,8 @@ const notifications = {
   discord: {
     notifyGroup: envOrArray(process.env.DISCORD_NOTIFY_GROUP),
     notifyGroupSeries: {
+      '1660super': envOrArray(process.env.DISCORD_NOTIFY_GROUP_1660SUPER),
+      '1660ti': envOrArray(process.env.DISCORD_NOTIFY_GROUP_1660TI),
       '3060ti': envOrArray(process.env.DISCORD_NOTIFY_GROUP_3060TI),
       3070: envOrArray(process.env.DISCORD_NOTIFY_GROUP_3070),
       3080: envOrArray(process.env.DISCORD_NOTIFY_GROUP_3080),
@@ -360,6 +362,8 @@ const store = {
   country: envOrString(process.env.COUNTRY, 'usa'),
   maxPrice: {
     series: {
+      '1660super': envOrNumber(process.env.MAX_PRICE_SERIES_1660SUPER),
+      '1660ti': envOrNumber(process.env.MAX_PRICE_SERIES_1660TI),
       '3060ti': envOrNumber(process.env.MAX_PRICE_SERIES_3060TI),
       3070: envOrNumber(process.env.MAX_PRICE_SERIES_3070),
       3080: envOrNumber(process.env.MAX_PRICE_SERIES_3080),

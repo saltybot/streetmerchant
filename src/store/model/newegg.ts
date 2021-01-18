@@ -41,6 +41,46 @@ export const Newegg: Store = {
         'https://www.newegg.com/western-digital-blue-500gb/p/N82E16820250087?Item=N82E16820250087',
     },
     {
+      brand: 'evga',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814487484',
+      itemNumber: '14-487-484',
+      model: 'black gaming',
+      series: '1660super',
+      url:
+        'https://www.newegg.com/evga-geforce-gtx-1660-super-06g-p4-1061-kr/p/N82E16814487484'
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126352',
+      itemNumber: '14-126-352',
+      model: 'dual evo',
+      series: '1660super',
+      url:
+        'https://www.newegg.com/asus-geforce-gtx-1660-super-dual-gtx1660s-o6g-evo/p/N82E16814126352'
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137391',
+      itemNumber: '14-137-391',
+      model: 'gaming x',
+      series: '1660ti',
+      url:
+        'https://www.newegg.com/msi-geforce-gtx-1660-ti-gtx-1660-ti-gaming-x-6g/p/N82E16814137391',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932131',
+      itemNumber: '14-932-131',
+      model: 'oc',
+      series: '1660ti',
+      url:
+        'https://www.newegg.com/gigabyte-geforce-gtx-1660-ti-gv-n166toc-6gd/p/N82E16814932131',
+    },
+    {
       brand: 'msi',
       cartUrl:
         'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137601',
