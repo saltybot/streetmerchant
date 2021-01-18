@@ -137,6 +137,7 @@ export type Model =
   | 'pulse'
   | 'red devil'
   | 'red dragon'
+  | 'sc ultra'
   | 'sg oc'
   | 'sg'
   | 'merc'

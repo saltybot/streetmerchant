@@ -49,6 +49,18 @@ for (const microCenterLocation of microCenterLocations) {
         url: `https://www.microcenter.com/product/618433/evga-geforce-rtx-2060-ko-ultra-overclocked-dual-fan-6gb-gddr6-pcie-30-graphics-card/?storeid=${storeId}`,
       },
       {
+        brand: 'gigabyte',
+        model: 'oc',
+        series: '1660ti',
+        url: `https://www.microcenter.com/product/603132/gigabyte-geforce-gtx-1660-ti-overclocked-6gb-gddr6-dual-fan-pcie-30-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'evga',
+        model: 'sc ultra',
+        series: '1660ti',
+        url: `https://www.microcenter.com/product/607600/evga-geforce-gtx-1660-ti-sc-ultra-dual-fan-6gb-gddr6-pcie-30-graphics-card/?storeid=${storeId}`,
+      },
+      {
         brand: 'evga',
         model: 'xc3 ultra',
         series: '3080',
