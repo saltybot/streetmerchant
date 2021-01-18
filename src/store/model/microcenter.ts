@@ -222,6 +222,24 @@ for (const microCenterLocation of microCenterLocations) {
         series: 'darkhero',
         url: `https://www.microcenter.com/product/631349/asus-x570-rog-crosshair-viii-dark-hero-amd-am4-atx-motherboard/?storeid=${storeId}`,
       },
+      {
+        brand: 'asrock',
+        model: 'h470m pro',
+        series: 'lga1200',
+        url: `https://www.microcenter.com/product/626150/asrock-h470m-pro-intel-lga-1200-microatx-motherboard/?storeid=${storeId}`,
+      },
+      {
+        brand: 'asus',
+        model: 'h470 prime',
+        series: 'lga1200',
+        url: `https://www.microcenter.com/product/624374/asus-h470-prime-h470m-plus-csm-intel-lga-1200-atx-motherboard/?storeid=${storeId}`,
+      },
+      {
+        brand: 'gigabyte',
+        model: 'h470m ds3h',
+        series: 'lga1200',
+        url: `https://www.microcenter.com/product/626142/gigabyte-h470m-ds3h-intel-lga-1200-atx-motherboard/?storeid=${storeId}`,
+      },
     ]);
   }
 }
