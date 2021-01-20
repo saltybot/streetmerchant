@@ -78,6 +78,7 @@ export type Model =
   | 'aorus xtreme waterforce'
   | 'aorus xtreme waterforce wb'
   | 'aorus'
+  | 'b460m ds3h'
   | 'battle-ax'
   | 'black gaming'
   | 'challenger'

@@ -223,6 +223,12 @@ for (const microCenterLocation of microCenterLocations) {
         url: `https://www.microcenter.com/product/631349/asus-x570-rog-crosshair-viii-dark-hero-amd-am4-atx-motherboard/?storeid=${storeId}`,
       },
       {
+        brand: 'gigabyte',
+        model: 'b460m ds3h',
+        series: 'lga1200',
+        url: `https://www.microcenter.com/product/626279/gigabyte-b460-m-ds3h-ultra-durable-intel-lga-1200-microatx-motherboard/?storeid=${storeId}`,
+      },
+      {
         brand: 'asrock',
         model: 'h470m pro',
         series: 'lga1200',
