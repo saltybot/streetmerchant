@@ -68,6 +68,7 @@ export type Model =
   | '5900x'
   | '5950x'
   | '600 platinum'
+  | '600 gold'
   | '750 platinum'
   | 'amd reference'
   | 'amp extreme holo'

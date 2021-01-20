@@ -408,6 +408,7 @@ const store = {
     'ryzen5800',
     'ryzen5900',
     'ryzen5950',
+    'sf',
     'sonyps5c',
     'sonyps5de',
     'xboxss',
